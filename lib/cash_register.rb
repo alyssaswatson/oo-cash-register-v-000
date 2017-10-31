@@ -15,6 +15,7 @@ class CashRegister
     percentage = @discount/100
     amount_off = @total*percentage
     result = @total - amount_off
+    result
     
   end
 
