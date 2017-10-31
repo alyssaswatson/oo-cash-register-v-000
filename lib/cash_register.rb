@@ -15,7 +15,5 @@ class CashRegister
     (@discount/100)/@total
   end
 
-  end
-
 
 end
