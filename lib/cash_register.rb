@@ -16,7 +16,7 @@ class CashRegister
     amount_off = @total*percentage
     result = @total - amount_off
     result
-    
+
   end
 
 
